@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: You need routing in a single page app to help users figure out where they are in your app and to separate your code into logical, testable units. Another advantage is that when you edit one route, assuming you’ve structured your code well, you don’t have to worry about it breaking stuff on another route.
 
 ## Project Set Up
 
